@@ -18,6 +18,9 @@ A power BI dashboard is designed to present the result of the analysis and to up
 -	Brittany Bold, a manager for Westland Pharmacy, achieved a total sales of 4 billion and a total quantity of 9 million. The average sales by year and channel for the team managed by Brittany showed a similar trend as the product performance dashboard, with Pharmacy having a higher sales volume than Hospital and both peaking in 2019. The top cities for Brittany’s Team were Cuxhaven, Filderstadt, Frankfurt (Oder), Ludwigshafen, and Friedrichsdorf. Her team’s top products were Antibiotics, and Antiseptics. The top sales rep in her team was Sheila Stones.
   
 ![interactive dashboard 1](https://github.com/Okunade-Daniel/Westland-pharmacy-sales-performance/blob/main/westland%20videos%20and%20images/ezgif.com-crop.gif)
+
+...
+
 ![interactive dashboard 2](https://github.com/Okunade-Daniel/Westland-pharmacy-sales-performance/blob/main/westland%20videos%20and%20images/video-ezgif.com-crop.gif)
 
 # Conclusions and Recommendations
