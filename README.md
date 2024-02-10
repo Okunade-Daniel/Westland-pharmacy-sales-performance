@@ -3,11 +3,11 @@
 This project aims to explore and evaluate the sales and performance of the product sold by Westland Pharmacy, a company that offers a range of health products and solutions. The projects also looked into the performance of the sales representatives and managers.
 # Data and Methods
 There are 5 types of data used for this analysis:
-•	Data.csv: This contains information about the sales of Westland Pharmacy Products between 2017 and 2020.
-•	Distributor.csv: This contains information about the various distributors of Westland Pharmacy products.
-•	Sales rep.csv: This contains information about the different sales representatives of Westland Pharmacy.
-•	manager.csv: This contains information about the different manager of Westland Pharmacy.
-•	Product.csv: This contains information about the various products sold by Westland Pharmacy.
+-	Data.csv: This contains information about the sales of Westland Pharmacy Products between 2017 and 2020.
+-	Distributor.csv: This contains information about the various distributors of Westland Pharmacy products.
+-	Sales rep.csv: This contains information about the different sales representatives of Westland Pharmacy.
+-	manager.csv: This contains information about the different manager of Westland Pharmacy.
+-	Product.csv: This contains information about the various products sold by Westland Pharmacy.
 # Limitations:
 The results and recommendations may not be generalizable as the data collected were between 2017 and 2020 and focused on the products and staffs of Westland Pharmacy.
 # Results
@@ -16,6 +16,10 @@ A power BI dashboard is designed to present the result of the analysis and to up
 -	Westland Pharmacy achieved a total sales of 12 billion and a total quantity of 29 million from 2017 to 2020. The average sales by year and channel showed an increasing trend for both Hospital and Pharmacy channels, with Pharmacy having a higher sales volume than Hospital. The overall top cities were Butzbach, Baesweiller, Cuxhaven, Altenburg, and Bottrop. The Overall top 3 product were Iconotide, Tetratanyl, Betanem.
 -	Jimmy Grey, the top sales rep for Westland Pharmacy, achieved a total sales of 986 million and a total quantity of 2 million between 2017 and 2020. The average sales by year and channel showed a similar trend as the product performance dashboard, with Pharmacy having a higher sales volume than Hospital. The top cities patronizing Jimmy were Butzbach, Trier, Springe, Freising, and Wertheim. His top selling products were Acetaminophen, Ibuprofen, Amoxicillin, Penicillin, and Paracetamol.
 -	Brittany Bold, a manager for Westland Pharmacy, achieved a total sales of 4 billion and a total quantity of 9 million. The average sales by year and channel for the team managed by Brittany showed a similar trend as the product performance dashboard, with Pharmacy having a higher sales volume than Hospital and both peaking in 2019. The top cities for Brittany’s Team were Cuxhaven, Filderstadt, Frankfurt (Oder), Ludwigshafen, and Friedrichsdorf. Her team’s top products were Antibiotics, and Antiseptics. The top sales rep in her team was Sheila Stones.
+  
+[Watch the video](https://www.youtube.com/watch?v=)
+[Watch the video](https://www.youtube.com/watch?v=)
+
 # Conclusions and Recommendations
 ## Conclusions:
 The power BI dashboard shows that Westland Pharmacy has been performing well in terms of sales and quantity from 2017 to 2020, with 2018 being the most successful years. Selling the products through the Pharmacy channel has been more profitable than the Hospital channel, and the top 3 products have been Iconotide, Tetratanyl and Betanem, The dashboard also reveals the individual achievements of the top sales rep, Jimmy Grey, and the top manager, Brittany Bold, who have contributed to the overall success of the company. The dashboard can be used to monitor the performance of the company and its employees, and to identify the areas of improvement and opportunity.
